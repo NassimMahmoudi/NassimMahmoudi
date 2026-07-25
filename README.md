@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://nassim.claysystems.de/">Website</a> •
-  <a href="[https://linkedin.com/in/nassim-mahmoudi](https://www.linkedin.com/in/nam-mahmoudi/)">LinkedIn</a> •
+  <a href="https://linkedin.com/in/nam-mahmoudi/">LinkedIn</a> •
   <a href="https://github.com/NassimMahmoudi">GitHub</a>
 </p>
 
