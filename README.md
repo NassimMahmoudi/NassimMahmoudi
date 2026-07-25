@@ -19,7 +19,8 @@ I am a **Full-Stack Software Engineer** passionate about architecting resilient 
 ---
 
 - 💼 **Looking for:** Full-time roles in Full-Stack Engineering, AI-Powered SaaS, or Backend Architecture.
-- 🔭 **Currently working on:** Developing automated AI workflows for **Lectful Corporation (USA)**, and building robust web applications (e.g., **Adam Fahrschule**).- 🌱 **Currently learning:** Advanced AI agent integrations (Haystack, MCP) and Next.js performance optimization.
+- 🔭 **Currently working on:** Developing automated AI workflows for **Lectful Corporation (USA)**, and building robust web applications (e.g., **Adam Fahrschule**).
+- 🌱 **Currently learning:** Advanced AI agent integrations (Haystack, MCP) and Next.js performance optimization.
 - 💬 **Ask me about:** React, TypeScript, Node.js, AI integrations, and full-stack architecture.
 - 📍 **Based in:** Berlin, Germany
 - 📫 **Reach me:** [nam.mahmoudi@gmail.com](mailto:nam.mahmoudi@gmail.com)
