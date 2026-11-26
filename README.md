@@ -14,7 +14,7 @@
 
 I am a **Full-Stack Software Engineer** passionate about architecting resilient applications and tackling complex technical challenges. My core expertise lies in the modern JavaScript/TypeScript ecosystem, where I balance intuitive UI development with high-performance backend services. Beyond traditional web development, I love exploring how AI integration and automated workflows can solve real-world problems and genuinely make people's lives easier. 
 
-**🚀 I am currently based in Berlin and actively looking for my next full-time opportunity as a Senior/Full-Stack Engineer.**
+**🚀 I am currently based in Erfurt and actively looking for my next full-time opportunity as a Senior/Full-Stack Engineer.**
 
 ---
 
@@ -22,7 +22,7 @@ I am a **Full-Stack Software Engineer** passionate about architecting resilient 
 - 🔭 **Currently working on:** Developing automated AI workflows for **Lectful Corporation (USA)**, and building robust web applications (e.g., **Adam Fahrschule**).
 - 🌱 **Currently learning:** Advanced AI agent integrations (Haystack, MCP) and Next.js performance optimization.
 - 💬 **Ask me about:** React, TypeScript, Node.js, AI integrations, and full-stack architecture.
-- 📍 **Based in:** Berlin, Germany
+- 📍 **Based in:** Erfurt, Germany
 - 📫 **Reach me:** [nam.mahmoudi@gmail.com](mailto:nam.mahmoudi@gmail.com)
 - ⚡ **Fun fact:** I'm driven by curiosity—whether that means diving into new AI integrations or building seamless cross-platform tools, I am always eager to learn on the go.
 
